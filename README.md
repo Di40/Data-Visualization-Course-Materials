@@ -1,5 +1,7 @@
 # VisualizingDataWithPython
 
+Date: 19.05.2021
+
 IBM - DV0101EN
 
 The main goal of Data Visualization is to take data that at first glance has little meaning and present that data in a form that makes sense to people. This was we extract information, better understand the data, and make more effective decisions.
