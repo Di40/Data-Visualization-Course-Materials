@@ -1,4 +1,4 @@
-# VisualizingDataWithPython
+# Visualizing data with Python
 
 This repository contains the materials for the **Data Visualization** course offered by [IBM - DV0101EN](https://edx.com/).
 
