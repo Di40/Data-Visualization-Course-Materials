@@ -1,9 +1,13 @@
 # VisualizingDataWithPython
 
-Date: 19.05.2021
+This repository contains the materials for the **Data Visualization** course offered by [IBM - DV0101EN](https://edx.com/).
 
-IBM - DV0101EN
+Date completed: 19.05.2021
 
-The main goal of Data Visualization is to take data that at first glance has little meaning and present that data in a form that makes sense to people. This was we extract information, better understand the data, and make more effective decisions.
-
-Various techniques have been developed for presenting data visually, but in this course, the following libraries in Python are studied in detail: Matplotlib, Seaborn, and Folium.
+Course outline:
+- Introduction to data visualization
+- Exploring **matplotlib**
+- Advanced plotting techniques with matplotlib
+- Introduction to **seaborn**
+- Creating statistical graphics with seaborn
+- Introduction to **folium** for geospatial data visualization
